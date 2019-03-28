@@ -1,4 +1,4 @@
-# very_good_ventures_app
+# about_me_app
 
 Simple Demo app about me
 
